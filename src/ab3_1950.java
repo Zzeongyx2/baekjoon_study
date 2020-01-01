@@ -12,6 +12,7 @@ public class ab3_1950 {
             int b = scan.nextInt();
             System.out.println(a+b);
         }
+
         scan.close();
     }
 
