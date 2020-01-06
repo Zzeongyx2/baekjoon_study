@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class minMax_10818 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
