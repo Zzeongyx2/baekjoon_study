@@ -5,11 +5,11 @@ public class FlyMeToTheAlphaCentauri_1011 {
         Scanner scan = new Scanner(System.in);
         int t = scan.nextInt();
         for(int i=0;i<t;i++) {
-            int a = scan.nextInt();
-            int b = scan.nextInt();
-            int dis = b - a;
-            int cnt = 1;
-            int move = 0;
+            long a = scan.nextInt();
+            long b = scan.nextInt();
+            long dis = b - a;
+            long cnt = 1;
+            long move = 0;
 
             while (move < dis) {
                 cnt++;
