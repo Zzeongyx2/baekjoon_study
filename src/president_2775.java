@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class president_2775 {
+
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int[][] arr = new int[15][15];
